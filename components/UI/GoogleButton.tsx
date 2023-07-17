@@ -7,7 +7,7 @@ const GoogleButton: FC = () => {
     const callbackUrl: string = useSearchParams().get('callbackUrl') || '/profile';
 
     return (
-        <button className="rounded-xl bg-blue-500 p-2.5 text-white" onClick={() => signIn('Google', {callbackUrl})}>
+        <button className="rounded-xl bg-blue-500 p-2.5 text-white" onClick={() => signIn('google', {callbackUrl})}>
             Sign in with Google
         </button>
     );
