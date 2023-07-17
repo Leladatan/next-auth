@@ -35,7 +35,7 @@ const Header: FC = () => {
             </nav>
 
             {session?.data ? <Link href="#" onClick={() => signOut({
-                callbackUrl: '/'})}>Sing Out</Link> : <Link href="/signin">Sing In</Link>}
+                callbackUrl: '/'})}>Sing Out</Link> : <Link href="/api/auth/signin">Sing In</Link>}
 
             {session?.data &&
                 <Image priority src={session?.data?.user?.image!} onClick={() => router.push('/profile')}
