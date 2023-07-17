@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ca3486b-4876-4033-bd51-a4b9a88289c8" name="Changes" comment="" />
+    <list default="true" id="3ca3486b-4876-4033-bd51-a4b9a88289c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/UI/GoogleButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/UI/GoogleButton.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689578359602</updated>
       <workItem from="1689578361170" duration="7289000" />
-      <workItem from="1689585876640" duration="2865000" />
+      <workItem from="1689585876640" duration="5455000" />
     </task>
     <servers />
   </component>
